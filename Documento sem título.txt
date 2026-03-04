@@ -1,4 +1,4 @@
-﻿Passo a passo de Pedro Henrique da Silva 
+﻿Passo a passo de Pedro Henrique da Silva Lima 
 
 
 
@@ -91,4 +91,11 @@
 * Abro o aplicativo da Netfix
 * Procuro um filme ou serie no catalogo 
 * Clico para assistir 
-* Começo a assistir e de tempo em tempo olho para os lados para verificar se estou no meu ponto 
+* Começo a assistir e de tempo em tempo olho para os lados para verificar se estou no meu ponto
+* Aperto o sinal do ônibus quando estiver perto do ponto que eu quero descer 
+* Espero o ônibus parar e abrir as portas
+* Desço do ônibus 
+* Ando para reto em direção ao Senai
+* Paro em cada faixa de pedestre e olho para os dois lados 
+* Caso não tenha carros passando eu passo pela faixa de pedestre
+* Chego ao Senai
