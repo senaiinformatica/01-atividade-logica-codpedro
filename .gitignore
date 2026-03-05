@@ -1,0 +1,11 @@
+# Arquivos que eu náo quero substituir para o GitHub 
+
+# Arquivos especificos
+shaquille.jpg
+
+# Arquivos em diretores especifico/ proibidos
+
+
+# Extensoes proibidas 
+*.webp
+
